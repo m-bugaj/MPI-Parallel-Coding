@@ -136,7 +136,6 @@ _*.*
 *.filters.user
 *.h
 *.hpp
-*.cpp
 *.cxx
 *.cc
 *.c
