@@ -29,7 +29,6 @@
 [Bb]in
 [Dd]ebug*/
 [Rr]elease*/
-x64/
 x86/
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
@@ -68,8 +67,6 @@ _*.*
 *.user
 *.obj
 *.dll
-*.exe
-*.pdb
 *.idb
 *.manifest
 *.res
