@@ -22,7 +22,6 @@
 *.pdb
 *.tlog
 *.dll
-*.exe
 *.resx
 *.idb
 [Tt]humbs.db
