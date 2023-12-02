@@ -25,7 +25,7 @@ Compile the project in Visual Studio and run the executable located in `x64/Debu
 mpiexec -n 11 mpiLab.exe
 ```
 
-Replace 11 with the desired number of processes. The program showcases the MPI random voting algorithm, with each process actively participating in the voting process.
+Replace '11' with the desired number of processes. The program showcases the MPI random voting algorithm, with each process actively participating in the voting process.
 
 Important Note
 Ensure that the number of processes passed to mpiexec -n is odd, as the algorithm requires an odd number of participants for proper functioning.
