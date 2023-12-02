@@ -1,0 +1,4 @@
+﻿  mpiLab.cpp
+C:\Users\BUGI\Desktop\INFA\!SEM2\ORII\MPI\mpiLab\mpiLab\mpiLab.cpp(108,38): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\BUGI\Desktop\INFA\!SEM2\ORII\MPI\mpiLab\mpiLab\mpiLab.cpp(183,42): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  mpiLab.vcxproj -> C:\Users\BUGI\Desktop\INFA\!SEM2\ORII\MPI\mpiLab\x64\Debug\mpiLab.exe
